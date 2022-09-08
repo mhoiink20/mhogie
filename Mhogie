@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
+.#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
 
 
@@ -30,7 +30,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://st3.depositphotos.com/27847728/34610/v/600/depositphotos_346108846-stock-illustration-creative-letter-xp-logo-vector.jpg?v=2.0.0.15",Donasi dana/gopay 087758205108
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://st3.depositphotos.com/27847728/34610/v/600/depositphotos_346108846-stock-illustration-creative-letter-xp-logo-vector.jpg?v=2.0.0.15",Donasi ovo/gopay 089601470274
 http://rr2.dens.tv/s/index.m3u8
 
 
