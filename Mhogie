@@ -1,4 +1,4 @@
-.#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
 
 
@@ -895,17 +895,6 @@ https://h1.intechmedia.net/intech/ch22.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="001" tvg-name="" tvg-country="MY"tvg-language="Malay" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="Astro Malaysia",TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-        
-#EXTINF:-1 tvg-id="002" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg" tvg-url="" group-title="Astro Malaysia",TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-
-
-#EXTINF:-1 tvg-id="003" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/TV3_%28Malaysia%29.svg" tvg-url="" group-title="Astro Malaysia",TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
-
-
 #EXTINF:-1 tvg-id="004" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" tvg-url="" group-title="Astro Malaysia",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
